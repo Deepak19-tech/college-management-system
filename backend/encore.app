@@ -1,0 +1,1 @@
+{"id": "college-management-system-h3i2", "lang": "typescript"}
